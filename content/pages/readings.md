@@ -204,7 +204,7 @@ While this kind of article is never "on the test", there are some very valuable 
 Project References
 ------------------
 
-MIT Energy Research Council, Robert C. Armstrong, and Ernest J. Moniz. _Report of the Energy Research Council_. Cambridge, MA: MIT, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4 MB](http://web.mit.edu/mitei/about/erc-report-final.pdf))
+MIT Energy Research Council, Robert C. Armstrong, and Ernest J. Moniz. _Report of the Energy Research Council_. Cambridge, MA: MIT, 2006. ([PDF - 2.4 MB](http://web.mit.edu/mitei/about/erc-report-final.pdf))
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262640381) Nye, David E. [_Consuming Power: A Social History of American Energies_](https://mitpress.mit.edu/9780262640381). Cambridge, MA: MIT Press, 1999. ISBN: 9780262640381.
 
@@ -212,7 +212,7 @@ MIT Energy Research Council, Robert C. Armstrong, and Ernest J. Moniz. _Report o
 
 National Research Council. _Risk and Decisions: About Disposition of Transuranic and High-Level Radioactive Waste_. Washington, DC: National Academies Press, 2005. ISBN: 9780309095495.
 
-MIT Nuclear Energy Study Advisory Committee. _The Future of Nuclear Power: An Interdisciplinary MIT Study_. Cambridge, MA: MIT, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/nuclearpower/pdf/nuclearpower-summary.pdf))
+MIT Nuclear Energy Study Advisory Committee. _The Future of Nuclear Power: An Interdisciplinary MIT Study_. Cambridge, MA: MIT, 2003. ([PDF](http://web.mit.edu/nuclearpower/pdf/nuclearpower-summary.pdf))
 
 National Research Council. _Nuclear Wastes: Technologies for Separations and Transmutation_. Washington, DC: National Academies Press, 1996. ISBN: 9780309052269.
 
@@ -221,7 +221,7 @@ Additional Resources
 
 Ackoff, Russell L. "The Art and Science of Mess Management." _Interfaces_ 11, no. 1 (1978): 20-26.
 
-Ritchey, Tom. "Wicked Problems: Structuring Social Messes with Morphological Analysis." Swedish Morphological Society, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://swemorph.com/pdf/wp.pdf))
+Ritchey, Tom. "Wicked Problems: Structuring Social Messes with Morphological Analysis." Swedish Morphological Society, 2005. ([PDF](http://swemorph.com/pdf/wp.pdf))
 
 Sussman, Joseph M. "Collected Views on Complexity in Systems." MIT Engineering Systems Division Working Paper Series. ([PDF]({{< baseurl >}}/resources/complexity))
 
